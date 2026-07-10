@@ -32,6 +32,10 @@
 
 ## Featured builds
 
+<div align="center">
+<img width="100%" src="assets/banner-fleet.png" alt="공냥이 orchestrating the fleet" />
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -153,6 +157,8 @@ Orchestrating  Codex worker fleets in parallel (codex-fleet)
 ```
 
 <div align="center">
+
+<img width="100%" src="assets/banner-wave.png" alt="공냥이 waving goodbye" />
 
 [![GitHub](https://img.shields.io/badge/Follow_the_builds-0B1614?style=for-the-badge&logo=github&logoColor=7FB8A4)](https://github.com/kimsh-1)
 
